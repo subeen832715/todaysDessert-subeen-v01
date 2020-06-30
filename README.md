@@ -33,6 +33,7 @@
   MySQL, Sequelize, Node.js, Express, AWS
 
 > 팀원: 김라희, 황선주, 고윤혁, 민재현, 전수빈
+>
 > 아키텍쳐: https://koyunhyuk9800.tistory.com/9
 > 스키마: https://koyunhyuk9800.tistory.com/10
 
@@ -40,8 +41,3 @@
 
 <br/>
 <br/>
-
-**이 외에 프로젝트 과정에서의 기획과정, 회고, 진행 현황등 자세한 사항들은 Wiki에 기록하게 됩니다. [여기](https://github.com/codestates/project-test/wiki)를 눌러 이동해 주세요**
-
-
-포크 떠오기 - 클론 받기 - upstream 연결하기(git remote add upstream <주소>) - (remote -v 를 찍어 보시면 4개가 나올거예요 origin 2개 upstream 2개  )    remote 뒤에 나오는 upstream은 다른 이름으로 해도 상관없습니다.
