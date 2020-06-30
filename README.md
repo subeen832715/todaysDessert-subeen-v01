@@ -34,7 +34,9 @@
 
 #### For more details
 
-팀원: 김라희, 황선주, 고윤혁, 민재현, 전수빈
-아키텍쳐: https://koyunhyuk9800.tistory.com/9
-스키마: https://koyunhyuk9800.tistory.com/10
+>팀원: 김라희, 황선주, 고윤혁, 민재현, 전수빈
+>
+>아키텍쳐: https://koyunhyuk9800.tistory.com/9
+>
+>스키마: https://koyunhyuk9800.tistory.com/10
 
