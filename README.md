@@ -35,9 +35,6 @@
 > 팀원: 김라희, 황선주, 고윤혁, 민재현, 전수빈
 >
 > 아키텍쳐: https://koyunhyuk9800.tistory.com/9
+>
 > 스키마: https://koyunhyuk9800.tistory.com/10
 
-> 예시가 될 수 있는 레파지토리들을 검색해서 참고하면 좋겠습니다.
-
-<br/>
-<br/>
