@@ -67,8 +67,10 @@ app.get('/', (req, res) => {
 })
 
 const port = 4000;
-const hostname = "localhost";
+//const hostname = "localhost";
 
-app.listen(port, hostname, () => {
-    console.log(port, hostname);
-})  
+app.listen(port)
+console.log('listening on:', port)
+//app.listen(port, hostname, () => {
+//    console.log(port, hostname);
+//})  
